@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "public": "public/ucr/",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

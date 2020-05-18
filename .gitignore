@@ -63,3 +63,8 @@ node_modules/
 
 # dotenv environment variables file
 .env
+
+# Macbook.
+*.DS_Store
+
+# *public/.DS_Store

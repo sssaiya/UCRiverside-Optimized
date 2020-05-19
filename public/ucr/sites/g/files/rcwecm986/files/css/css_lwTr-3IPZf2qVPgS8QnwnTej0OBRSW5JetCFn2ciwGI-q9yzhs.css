@@ -15544,11 +15544,11 @@ a.thumbnail image {
   src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/8a6c3750-4927-4649-9dac-87049f5e9700.eot#iefix");
   src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/8a6c3750-4927-4649-9dac-87049f5e9700.eot#iefix")
       format("eot"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/d4eef5b1-2f4a-42d6-ae2d-6220d71243be.woff2")
-      format("woff2"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/57625f96-ca80-4602-9644-ec1803cb3ba3.woff")
-      format("woff"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/6618d500-1727-4334-878e-1c4b95192f42.ttf")
+    url("https://ucriverside-ec284.web.app/fonts/d4eef5b1-2f4a-42d6-ae2d-6220d71243be.woff2")
+      format("font-woff2"),
+    url("https://ucriverside-ec284.web.app/fonts/57625f96-ca80-4602-9644-ec1803cb3ba3.woff")
+      format("font-woff"),
+      url("https://ucriverside-ec284.web.app/fonts/6618d500-1727-4334-878e-1c4b95192f42.ttf")
       format("truetype"),
     url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/01ebe944-ca6c-41db-a3ba-b7e2a90536d9.svg#01ebe944-ca6c-41db-a3ba-b7e2a90536d9")
       format("svg");

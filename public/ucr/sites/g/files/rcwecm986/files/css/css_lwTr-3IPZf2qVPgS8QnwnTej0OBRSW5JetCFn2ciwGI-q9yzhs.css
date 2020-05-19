@@ -702,17 +702,15 @@
 }
 @font-face {
   font-family: "Material Design Icons";
-  src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.eot?v=2.0.46");
-  src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.eot#iefix&v=2.0.46")
+  src: url("https://ucriverside-ec284.web.app/fonts/materialdesignicons-webfont.eot");
+  src: url("https://ucriverside-ec284.web.app/fonts/materialdesignicons-webfont.eot")
       format("embedded-opentype"),
     url("https://ucriverside-ec284.web.app/fonts/materialdesignicons-webfont.woff2")
       format("font-woff2"),
     url("https://ucriverside-ec284.web.app/fonts/materialdesignicons-webfont.woff")
       format("font-woff"),
     url("https://ucriverside-ec284.web.app/fonts/materialdesignicons-webfont.ttf")
-      format("font-truetype"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.svg?v=2.0.46#materialdesigniconsregular")
-      format("svg");
+      format("font-truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -15620,22 +15618,22 @@ a.thumbnail image {
 }
 @font-face {
   font-family: "Trade Gothic Next W01_n5";
-  src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/5be4a815-5a22-4a8b-8a38-10467be39d2e.eot#iefix")
-    format("eot");
+  src: url("https://ucriverside-ec284.web.app/fonts/5be4a815-5a22-4a8b-8a38-10467be39d2e.eot#iefix")
+    format("font-eot");
 }
 @font-face {
   font-family: "Trade Gothic Next W01";
-  src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/5be4a815-5a22-4a8b-8a38-10467be39d2e.eot#iefix");
-  src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/5be4a815-5a22-4a8b-8a38-10467be39d2e.eot#iefix")
-      format("eot"),
+  src: url("https://ucriverside-ec284.web.app/fonts/5be4a815-5a22-4a8b-8a38-10467be39d2e.eot#iefix");
+  src: url("https://ucriverside-ec284.web.app/fonts/5be4a815-5a22-4a8b-8a38-10467be39d2e.eot#iefix")
+      format("font-eot"),
     url("https://ucriverside-ec284.web.app/fonts/a8816340-0294-4243-8519-b2ccf08ca174.woff2")
       format("font-woff2"),
     url("https://ucriverside-ec284.web.app/fonts/eb20bf3e-7a5c-4c98-8bc5-f38c1b3dd9f2.woff")
       format("font-woff"),
     url("https://ucriverside-ec284.web.app/fonts/bbd9ed4b-21d6-4a35-a3eb-176c31258e03.ttf")
       format("font-truetype"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/2b33a704-0f65-4c4c-94d0-2bd00c0151af.svg#2b33a704-0f65-4c4c-94d0-2bd00c0151af")
-      format("svg");
+    url("https://ucriverside-ec284.web.app/fonts/2b33a704-0f65-4c4c-94d0-2bd00c0151af.svg")
+      format("font-svg");
   font-weight: 500;
   font-style: normal;
 }
@@ -15683,29 +15681,29 @@ a.thumbnail image {
 }
 @font-face {
   font-family: "Trade Gothic Next W01_i6";
-  src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/f54ff660-2006-4adc-adb4-13705f833857.eot#iefix")
-    format("eot");
+  src: url("https://ucriverside-ec284.web.app/fonts/f54ff660-2006-4adc-adb4-13705f833857.eot#iefix")
+    format("font-eot");
 }
 @font-face {
   font-family: "Trade Gothic Next W01";
-  src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/f54ff660-2006-4adc-adb4-13705f833857.eot#iefix");
-  src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/f54ff660-2006-4adc-adb4-13705f833857.eot#iefix")
-      format("eot"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/fd65fac5-f7ce-4a4b-ac7e-4d234fa01b0c.woff2")
-      format("woff2"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/e66e3237-f0dc-4885-90eb-b71e55d0c057.woff")
-      format("woff"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/e3728264-163f-42ea-8592-565a6ec20b9a.ttf")
-      format("truetype"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/4358bf54-ee4b-47d2-a4b4-0fa43581c3de.svg#4358bf54-ee4b-47d2-a4b4-0fa43581c3de")
-      format("svg");
+  src: url("https://ucriverside-ec284.web.app/fonts/f54ff660-2006-4adc-adb4-13705f833857.eot");
+  src: url("https://ucriverside-ec284.web.app/fonts/f54ff660-2006-4adc-adb4-13705f833857.eot")
+      format("font-eot"),
+    url("https://ucriverside-ec284.web.app/fonts/fd65fac5-f7ce-4a4b-ac7e-4d234fa01b0c.woff2")
+      format("font-woff2"),
+    url("https://ucriverside-ec284.web.app/fonts/e66e3237-f0dc-4885-90eb-b71e55d0c057.woff")
+      format("font-woff"),
+    url("https://ucriverside-ec284.web.app/fonts/e3728264-163f-42ea-8592-565a6ec20b9a.ttf")
+      format("font-truetype"),
+    url("https://ucriverside-ec284.web.app/fonts/4358bf54-ee4b-47d2-a4b4-0fa43581c3de.svg")
+      format("font-svg");
   font-weight: 600;
   font-style: italic;
 }
-@font-face {
+/* @font-face {
   font-family: "Material Design Icons";
-  src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.eot?v=2.0.46");
-  src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.eot#iefix&v=2.0.46")
+  src: url("https://ucriverside-ec284.web.app/fonts/materialdesignicons-webfont.eot");
+  src: url("https://ucriverside-ec284.web.app/fonts/materialdesignicons-webfont.eot")
       format("embedded-opentype"),
     url("https://ucriverside-ec284.web.app/fonts/materialdesignicons-webfont.woff2")
       format("font-woff2"),
@@ -15717,7 +15715,7 @@ a.thumbnail image {
       format("svg");
   font-weight: normal;
   font-style: normal;
-}
+} */
 html {
   font-size: 100%;
 }
@@ -15782,8 +15780,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Trade Gothic Next W01", "Helvetica Neue", Helvetica, Roboto,
-    Arial, sans-serif;
+  font-family: "Trade Gothic Next W01", Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   color: #666666;
@@ -16029,7 +16026,7 @@ nav.pager ul.pager__items li.pager__item a {
   border: 1px solid #868e96;
   text-decoration: none;
   color: #868e96;
-  font-family: "Adelle W01", "Helvetica Neue", Helvetica, Roboto, Arial,
+  font-family: "Adelle W01", Roboto, Arial,
     sans-serif;
 }
 nav.pager ul.pager__items li.pager__item a:hover {
@@ -16308,7 +16305,7 @@ nav.pager ul.pager__items li.pager__item--previous a span {
   display: inline-block;
   vertical-align: top;
   position: relative;
-  font-family: "Trade Gothic Next W01", "Helvetica Neue", Helvetica, Roboto,
+  font-family: "Trade Gothic Next W01", Roboto,
     Arial, sans-serif;
   font-size: 1.25rem;
   font-weight: 500;
@@ -16332,7 +16329,7 @@ nav.pager ul.pager__items li.pager__item--previous a span {
   position: relative;
   text-align: right;
   color: #98a4b5;
-  font-family: "Avenir Next W01", "Helvetica Neue", Helvetica, Roboto, Arial,
+  font-family: "Avenir Next W01", Roboto, Arial,
     sans-serif;
   font-size: 1.375rem;
   line-height: 1.08;
@@ -16343,7 +16340,7 @@ nav.pager ul.pager__items li.pager__item--previous a span {
   margin: 0;
 }
 .main-nav-bar {
-  font-family: "Avenir Next W01", "Helvetica Neue", Helvetica, Roboto, Arial,
+  font-family: "Avenir Next W01", Roboto, Arial,
     sans-serif;
   font-size: 0.6875rem;
   font-weight: 600;
@@ -16858,7 +16855,7 @@ footer {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   color: #d8e4f3;
-  font-family: "Avenir Next W01", "Helvetica Neue", Helvetica, Roboto, Arial,
+  font-family: "Avenir Next W01", Roboto, Arial,
     sans-serif;
   font-size: 0.6875rem;
   line-height: 1.364;

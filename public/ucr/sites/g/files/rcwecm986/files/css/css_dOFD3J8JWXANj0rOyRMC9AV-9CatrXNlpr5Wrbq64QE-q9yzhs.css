@@ -702,17 +702,15 @@
 }
 @font-face {
   font-family: "Material Design Icons";
-  src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.eot?v=2.0.46");
-  src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.eot#iefix&v=2.0.46")
+  src: url("https://ucriverside-ec284.web.app/fonts/materialdesignicons-webfont.eot");
+  src: url("https://ucriverside-ec284.web.app/fonts/materialdesignicons-webfont.eot")
       format("embedded-opentype"),
     url("https://ucriverside-ec284.web.app/fonts/materialdesignicons-webfont.woff2")
       format("font-woff2"),
     url("https://ucriverside-ec284.web.app/fonts/materialdesignicons-webfont.woff")
       format("font-woff"),
     url("https://ucriverside-ec284.web.app/fonts/materialdesignicons-webfont.ttf")
-      format("font-truetype"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.svg?v=2.0.46#materialdesigniconsregular")
-      format("svg");
+      format("font-truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -15683,14 +15681,14 @@ a.thumbnail image {
 }
 @font-face {
   font-family: "Trade Gothic Next W01_i6";
-  src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/f54ff660-2006-4adc-adb4-13705f833857.eot#iefix")
-    format("eot");
+  src: url("https://ucriverside-ec284.web.app/fonts/f54ff660-2006-4adc-adb4-13705f833857.eot")
+    format("font-eot");
 }
 @font-face {
   font-family: "Trade Gothic Next W01";
-  src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/f54ff660-2006-4adc-adb4-13705f833857.eot#iefix");
-  src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/f54ff660-2006-4adc-adb4-13705f833857.eot#iefix")
-      format("eot"),
+  src: url("https://ucriverside-ec284.web.app/fonts/f54ff660-2006-4adc-adb4-13705f833857.eot");
+  src: url("https://ucriverside-ec284.web.app/fonts/f54ff660-2006-4adc-adb4-13705f833857.eot")
+      format("font-eot"),
     url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/fd65fac5-f7ce-4a4b-ac7e-4d234fa01b0c.woff2")
       format("woff2"),
     url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/e66e3237-f0dc-4885-90eb-b71e55d0c057.woff")
@@ -15702,10 +15700,10 @@ a.thumbnail image {
   font-weight: 600;
   font-style: italic;
 }
-@font-face {
+/* @font-face {
   font-family: "Material Design Icons";
-  src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.eot?v=2.0.46");
-  src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.eot#iefix&v=2.0.46")
+  src: url("https://ucriverside-ec284.web.app/fonts/materialdesignicons-webfont.eot");
+  src: url("https://ucriverside-ec284.web.app/fonts/materialdesignicons-webfont.eot")
       format("embedded-opentype"),
     url("https://ucriverside-ec284.web.app/fonts/materialdesignicons-webfont.woff2")
       format("font-woff2"),
@@ -15717,7 +15715,7 @@ a.thumbnail image {
       format("svg");
   font-weight: normal;
   font-style: normal;
-}
+} */
 html {
   font-size: 100%;
 }

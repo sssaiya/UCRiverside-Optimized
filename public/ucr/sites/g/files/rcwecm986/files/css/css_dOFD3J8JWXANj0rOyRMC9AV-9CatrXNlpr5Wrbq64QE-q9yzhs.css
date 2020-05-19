@@ -705,10 +705,10 @@
   src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.eot?v=2.0.46");
   src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.eot#iefix&v=2.0.46")
       format("embedded-opentype"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.woff2?v=2.0.46")
-      format("woff2"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.woff?v=2.0.46")
-      format("woff"),
+    url("https://ucriverside-ec284.web.app/fonts/materialdesignicons-webfont.woff2")
+      format("font-woff2"),
+    url("https://ucriverside-ec284.web.app/fonts/materialdesignicons-webfont.woff")
+      format("font-woff"),
     url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.ttf?v=2.0.46")
       format("truetype"),
     url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.svg?v=2.0.46#materialdesigniconsregular")
@@ -15460,8 +15460,8 @@ a.thumbnail image {
   src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/dccb10af-07a2-404c-bfc7-7750e2716bc1.eot#iefix");
   src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/dccb10af-07a2-404c-bfc7-7750e2716bc1.eot#iefix")
       format("eot"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/14c73713-e4df-4dba-933b-057feeac8dd1.woff2")
-      format("woff2"),
+    url("https://ucriverside-ec284.web.app/fonts/14c73713-e4df-4dba-933b-057feeac8dd1.woff2")
+      format("font-woff2"),
     url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/b8e906a1-f5e8-4bf1-8e80-82c646ca4d5f.woff")
       format("woff"),
     url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/890bd988-5306-43ff-bd4b-922bc5ebdeb4.ttf")
@@ -15588,10 +15588,10 @@ a.thumbnail image {
       format("eot"),
     url("https://ucriverside-ec284.web.app/fonts/b071c6d1-8b3a-4032-9c25-67daff28fae8.woff2")
       format("font-woff2"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/4d16ea6c-033a-41b1-8326-56a1d7392d5f.woff")
-      format("woff"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/573b39c2-10f7-4b72-a656-89a329b76560.ttf")
-      format("truetype"),
+    url("https://ucriverside-ec284.web.app/fonts/4d16ea6c-033a-41b1-8326-56a1d7392d5f.woff")
+      format("font-woff"),
+      url("https://ucriverside-ec284.web.app/fonts/573b39c2-10f7-4b72-a656-89a329b76560.ttf")
+      format("font-truetype"),
     url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/d079b7e1-7489-4f6d-b4c9-536742085cff.svg#d079b7e1-7489-4f6d-b4c9-536742085cff")
       format("svg");
   font-weight: 700;
@@ -15628,10 +15628,10 @@ a.thumbnail image {
   src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/5be4a815-5a22-4a8b-8a38-10467be39d2e.eot#iefix");
   src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/5be4a815-5a22-4a8b-8a38-10467be39d2e.eot#iefix")
       format("eot"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/a8816340-0294-4243-8519-b2ccf08ca174.woff2")
-      format("woff2"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/eb20bf3e-7a5c-4c98-8bc5-f38c1b3dd9f2.woff")
-      format("woff"),
+    url("https://ucriverside-ec284.web.app/fonts/a8816340-0294-4243-8519-b2ccf08ca174.woff2")
+      format("font-woff2"),
+    url("https://ucriverside-ec284.web.app/fonts/eb20bf3e-7a5c-4c98-8bc5-f38c1b3dd9f2.woff")
+      format("font-woff"),
     url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/bbd9ed4b-21d6-4a35-a3eb-176c31258e03.ttf")
       format("truetype"),
     url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/2b33a704-0f65-4c4c-94d0-2bd00c0151af.svg#2b33a704-0f65-4c4c-94d0-2bd00c0151af")
@@ -15707,10 +15707,10 @@ a.thumbnail image {
   src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.eot?v=2.0.46");
   src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.eot#iefix&v=2.0.46")
       format("embedded-opentype"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.woff2?v=2.0.46")
-      format("woff2"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.woff?v=2.0.46")
-      format("woff"),
+    url("https://ucriverside-ec284.web.app/fonts/materialdesignicons-webfont.woff2")
+      format("font-woff2"),
+    url("https://ucriverside-ec284.web.app/fonts/materialdesignicons-webfont.woff")
+      format("font-woff"),
     url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.ttf?v=2.0.46")
       format("truetype"),
     url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/materialdesignicons-webfont.svg?v=2.0.46#materialdesigniconsregular")

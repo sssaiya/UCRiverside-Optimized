@@ -15378,10 +15378,10 @@ a.thumbnail image {
       format("eot"),
     url("https://ucriverside-ec284.web.app/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.woff2")
       format("font-woff2"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/1e9892c0-6927-4412-9874-1b82801ba47a.woff")
-      format("woff"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/46cf1067-688d-4aab-b0f7-bd942af6efd8.ttf")
-      format("truetype"),
+    url("https://ucriverside-ec284.web.app/fonts/1e9892c0-6927-4412-9874-1b82801ba47a.woff")
+      format("font-woff"),
+    url("https://ucriverside-ec284.web.app/fonts/46cf1067-688d-4aab-b0f7-bd942af6efd8.ttf")
+      format("font-truetype"),
     url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/52a192b1-bea5-4b48-879f-107f009b666f.svg#52a192b1-bea5-4b48-879f-107f009b666f")
       format("svg");
   font-weight: 400;
@@ -15565,12 +15565,12 @@ a.thumbnail image {
   src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/5907bd95-539f-4f25-b115-69c42aee6b21.eot#iefix");
   src: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/5907bd95-539f-4f25-b115-69c42aee6b21.eot#iefix")
       format("eot"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/e41c3ce6-57bc-473c-aaf0-9e0e771bf6c8.woff2")
-      format("woff2"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/3bde4253-d238-40b7-b813-eea7bdd9e80d.woff")
-      format("woff"),
-    url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/6005c161-37f3-4678-869a-1b4306ecc563.ttf")
-      format("truetype"),
+    url("https://ucriverside-ec284.web.app/fonts/e41c3ce6-57bc-473c-aaf0-9e0e771bf6c8.woff2")
+      format("font-woff2"),
+    url("https://ucriverside-ec284.web.app/fonts/3bde4253-d238-40b7-b813-eea7bdd9e80d.woff")
+      format("font-woff"),
+    url("https://ucriverside-ec284.web.app/fonts/6005c161-37f3-4678-869a-1b4306ecc563.ttf")
+      format("font-truetype"),
     url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/fonts/1301d16e-d0ec-407b-9796-677535450691.svg#1301d16e-d0ec-407b-9796-677535450691")
       format("svg");
   font-weight: 400;

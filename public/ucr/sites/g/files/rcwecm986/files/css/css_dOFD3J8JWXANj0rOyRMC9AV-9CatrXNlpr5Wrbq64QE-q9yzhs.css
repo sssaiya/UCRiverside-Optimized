@@ -15716,7 +15716,7 @@ a.thumbnail image {
   font-weight: normal;
   font-style: normal;
 } */
-html {
+/* html {
   font-size: 100%;
 }
 body {
@@ -15740,7 +15740,7 @@ a[href*="//"]:after
   -moz-osx-font-smoothing: grayscale;
   content: "\F3CC";
   padding-left: 4px;
-}
+} */
 .grid-container {
   max-width: 75rem;
 }

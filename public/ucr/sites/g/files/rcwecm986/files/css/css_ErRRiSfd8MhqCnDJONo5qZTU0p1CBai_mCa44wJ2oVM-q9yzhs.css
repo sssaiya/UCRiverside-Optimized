@@ -96,8 +96,7 @@
   display: inline;
   padding: 1px 5px 2px;
   background: transparent
-    url("https://www.ucr.edu/core/themes/stable/images/core/throbber-active.gif")
-    no-repeat 0 center;
+    url(/core/themes/stable/images/core/throbber-active.gif) no-repeat 0 center;
 }
 .ajax-progress-throbber .message {
   display: inline;
@@ -120,7 +119,7 @@ tr .ajax-progress-throbber .throbber {
   opacity: 0.9;
   border-radius: 7px;
   background-color: #232323;
-  background-image: url("https://www.ucr.edu/core/themes/stable/images/core/loading-small.gif");
+  background-image: url(/core/themes/stable/images/core/loading-small.gif);
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -152,7 +151,7 @@ tr .ajax-progress-throbber .throbber {
   margin-left: auto;
 }
 .js input.form-autocomplete {
-  background-image: url("https://www.ucr.edu/core/themes/stable/images/core/throbber-inactive.png");
+  background-image: url(/core/themes/stable/images/core/throbber-inactive.png);
   background-repeat: no-repeat;
   background-position: 100% center;
 }
@@ -160,7 +159,7 @@ tr .ajax-progress-throbber .throbber {
   background-position: 0% center;
 }
 .js input.form-autocomplete.ui-autocomplete-loading {
-  background-image: url("https://www.ucr.edu/core/themes/stable/images/core/throbber-active.gif");
+  background-image: url(/core/themes/stable/images/core/throbber-active.gif);
   background-position: 100% center;
 }
 .js[dir="rtl"] input.form-autocomplete.ui-autocomplete-loading {
@@ -326,13 +325,13 @@ table.sticky-header {
   background-size: 20px;
 }
 .system-status-counter__status-icon--error:before {
-  background-image: url("https://www.ucr.edu/core/themes/stable/images/core/icons/e32700/error.svg");
+  background-image: url(/core/themes/stable/images/core/icons/e32700/error.svg);
 }
 .system-status-counter__status-icon--warning:before {
-  background-image: url("https://www.ucr.edu/core/themes/stable/images/core/icons/e29700/warning.svg");
+  background-image: url(/core/themes/stable/images/core/icons/e29700/warning.svg);
 }
 .system-status-counter__status-icon--checked:before {
-  background-image: url("https://www.ucr.edu/core/themes/stable/images/core/icons/73b355/check.svg");
+  background-image: url(/core/themes/stable/images/core/icons/73b355/check.svg);
 }
 .system-status-report-counters__item {
   width: 100%;
@@ -399,12 +398,12 @@ a.tabledrag-handle .handle {
   height: 14px;
   margin: -0.4em 0.5em 0;
   padding: 0.42em 0.5em;
-  background: url("https://www.ucr.edu/core/themes/stable/images/core/icons/787878/move.svg")
+  background: url(/core/themes/stable/images/core/icons/787878/move.svg)
     no-repeat 6px 7px;
 }
 a.tabledrag-handle:hover .handle,
 a.tabledrag-handle:focus .handle {
-  background-image: url("https://www.ucr.edu/core/themes/stable/images/core/icons/000000/move.svg");
+  background-image: url(/core/themes/stable/images/core/icons/000000/move.svg);
 }
 .touchevents .draggable td {
   padding: 0 10px;
@@ -452,26 +451,25 @@ a.tabledrag-handle:focus .handle {
   background-size: 100%;
 }
 .tablesort--asc {
-  background-image: url("https://www.ucr.edu/core/themes/stable/images/core/icons/787878/twistie-down.svg");
+  background-image: url(/core/themes/stable/images/core/icons/787878/twistie-down.svg);
 }
 .tablesort--desc {
-  background-image: url("https://www.ucr.edu/core/themes/stable/images/core/icons/787878/twistie-up.svg");
+  background-image: url(/core/themes/stable/images/core/icons/787878/twistie-up.svg);
 }
 div.tree-child {
-  background: url("https://www.ucr.edu/core/themes/stable/images/core/tree.png")
-    no-repeat 11px center;
+  background: url(/core/themes/stable/images/core/tree.png) no-repeat 11px
+    center;
 }
 div.tree-child-last {
-  background: url("https://www.ucr.edu/core/themes/stable/images/core/tree-bottom.png")
-    no-repeat 11px center;
+  background: url(/core/themes/stable/images/core/tree-bottom.png) no-repeat
+    11px center;
 }
 [dir="rtl"] div.tree-child,
 [dir="rtl"] div.tree-child-last {
   background-position: -65px center;
 }
 div.tree-child-horizontal {
-  background: url("https://www.ucr.edu/core/themes/stable/images/core/tree.png")
-    no-repeat -11px center;
+  background: url(/core/themes/stable/images/core/tree.png) no-repeat -11px center;
 }
 .video-embed-field-responsive-video {
   position: relative;
@@ -509,7 +507,7 @@ div.tree-child-horizontal {
   margin-left: -36px;
   margin-top: -36px;
   position: absolute;
-  background: url("../../../../../../modules/contrib/video_embed_field/css/icons/play.svg")
+  background: url(/modules/contrib/video_embed_field/css/icons/play.svg)
     no-repeat;
   cursor: pointer;
   background-size: 72px 72px;
@@ -713,7 +711,7 @@ div.tree-child-horizontal {
   background: #fff;
 }
 #cboxLoadingGraphic {
-  background: url("../../../../../../modules/contrib/colorbox/styles/plain/images/loading_animation.gif")
+  background: url(/modules/contrib/colorbox/styles/plain/images/loading_animation.gif)
     no-repeat center center;
 }
 #cboxClose.cbox-close-plain {

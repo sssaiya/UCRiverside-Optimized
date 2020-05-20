@@ -4,8 +4,12 @@
   "description": "Optimize UC Riverside Homepage",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lighthouse:ci": "node_modules/lighthouse/lighthouse-cli/index.js --output-path=./lighthouse-report.html --quiet --chrome-flags='--headless' https://ucriverside-ec284.web.app/"
   },
   "author": "Shardul Saiya",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "lighthouse": "^6.0.0"
+  }
 }

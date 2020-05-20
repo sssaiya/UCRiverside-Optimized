@@ -16177,7 +16177,7 @@ nav.pager ul.pager__items li.pager__item--previous a span {
   background-color: transparent;
   min-width: 195px;
   max-width: 100%;
-  background: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/images/search-top.png")
+  background: url("https://ucriverside-ec284.web.app/themes/custom/ucr_default/images/search-top.png")
     no-repeat;
   background-position: 15% 50%;
 }
@@ -16870,7 +16870,7 @@ footer {
   }
   footer:after {
     content: "";
-    background: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/images/bg-ucr-footer.jpg")
+    background: url("https://ucriverside-ec284.web.app/themes/custom/ucr_default/images/bg-ucr-footer.jpg")
       50%;
     background-size: cover;
     opacity: 0.15;
@@ -16898,7 +16898,7 @@ footer .footer-google-search .google-search input {
   background-color: transparent;
   min-width: 195px;
   max-width: 600px;
-  background: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/images/search-top.png")
+  background: url("https://ucriverside-ec284.web.app/themes/custom/ucr_default/images/search-top.png")
     no-repeat;
   background-position: 5% 50%;
   color: #fefefe;
@@ -17051,7 +17051,7 @@ footer .footer-item .footer-logo {
   text-align: left !important;
   width: 12.5rem;
   height: 2.9375rem;
-  background: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/images/ucr-logo-footer.png")
+  background: url("https://ucriverside-ec284.web.app/themes/custom/ucr_default/images/ucr-logo-footer.png")
     no-repeat;
 }
 footer .footer-item .button-group .button {
@@ -20535,7 +20535,7 @@ div.block--additional_information:before {
   margin-right: 2px;
 }
 .block-region-second-below .block--basic .field--name-body ul a {
-  background: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/images/social-facebook.png");
+  background: url("https://ucriverside-ec284.web.app/themes/custom/ucr_default/images/social-facebook.png");
   background-position: -8px -7px;
   padding: 22px 20px;
   width: 44px;
@@ -20544,20 +20544,20 @@ div.block--additional_information:before {
   background-repeat: -no-repeat;
 }
 .block-region-second-below .block--basic .field--name-body ul a.youtube {
-  background: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/images/social-youtube.png");
+  background: url("https://ucriverside-ec284.web.app/themes/custom/ucr_default/images/social-youtube.png");
   background-position: -7px -6px;
   padding: 22px 22px;
 }
 .block-region-second-below .block--basic .field--name-body ul a.instagram {
-  background: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/images/social-instagram.png");
+  background: url("https://ucriverside-ec284.web.app/themes/custom/ucr_default/images/social-instagram.png");
   background-position: -9px -6px;
 }
 .block-region-second-below .block--basic .field--name-body ul a.twitter {
-  background: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/images/social-twitter.png");
+  background: url("https://ucriverside-ec284.web.app/themes/custom/ucr_default/images/social-twitter.png");
   background-position: -7px -7px;
 }
 .block-region-second-below .block--basic .field--name-body ul a.linkedin {
-  background: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/images/social-linkdin.png");
+  background: url("https://ucriverside-ec284.web.app/themes/custom/ucr_default/images/social-linkdin.png");
   background-position: -9px -6px;
 }
 .block--video_block {
@@ -22424,7 +22424,7 @@ body footer .site-legal-footer ul {
   list-style: none;
 }
 .footer-columns .social-link a {
-  background: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/images/social-facebook.png");
+  background: url("https://ucriverside-ec284.web.app/themes/custom/ucr_default/images/social-facebook.png");
   padding: 20px 16px;
   display: inline-block;
   margin-right: 2px;
@@ -22437,20 +22437,20 @@ body footer .site-legal-footer ul {
   border: 0px;
 }
 .footer-columns .social-link a.mdi-youtube-play {
-  background: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/images/social-youtube.png");
+  background: url("https://ucriverside-ec284.web.app/themes/custom/ucr_default/images/social-youtube.png");
   background-position: -9px -9px;
   padding: 20px 17px;
 }
 .footer-columns .social-link a.mdi-instagram {
-  background: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/images/social-instagram.png");
+  background: url("https://ucriverside-ec284.web.app/themes/custom/ucr_default/images/social-instagram.png");
   background-position: -9px -9px;
 }
 .footer-columns .social-link a.mdi-twitter {
-  background: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/images/social-twitter.png");
+  background: url("https://ucriverside-ec284.web.app/themes/custom/ucr_default/images/social-twitter.png");
   background-position: -8px -9px;
 }
 .footer-columns .social-link a.mdi-linkedin {
-  background: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/images/social-linkdin.png");
+  background: url("https://ucriverside-ec284.web.app/themes/custom/ucr_default/images/social-linkdin.png");
   background-position: -9px -9px;
 }
 .footer-columns .social-link a:after {
@@ -23220,7 +23220,7 @@ header {
   margin: 8px 0 8px 0;
 }
 .masthead-container .masthead-logo {
-  background: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/images/ucr_logo_gold-white.svg")
+  background: url("https://ucriverside-ec284.web.app/themes/custom/ucr_default/images/ucr_logo_gold-white.svg")
     no-repeat 0 0 transparent;
   height: 39px;
   width: 203px;
@@ -23328,7 +23328,7 @@ header {
 }
 #block-quicklinks-2 h2:after,
 #block-quicklinks h2:after {
-  background: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/images/bkg-quicklink-dwn-arrow.png")
+  background: url("https://ucriverside-ec284.web.app/themes/custom/ucr_default/images/bkg-quicklink-dwn-arrow.png")
     no-repeat 0 0 transparent;
   content: "";
   display: inline-block;
@@ -23427,7 +23427,7 @@ header {
   display: none;
 }
 #block-ucriversideaudiencesearchblock-4 .google-search #audience-search {
-  background: url("https://www.ucr.edu/profiles/custom/umbrella_acsf/themes/custom/ucr_umbrella/images/search-top.png")
+  background: url("https://ucriverside-ec284.web.app/themes/custom/ucr_default/images/search-top.png")
     15px center no-repeat #0c1c31;
   border: 1px solid #617387;
   -webkit-box-sizing: border-box;

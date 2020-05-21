@@ -7,6 +7,25 @@
         "source": "**",
         "destination": "/index.html"
       }
-    ]
+    ],
+    "headers": [ {
+      "source": "**/*.@(eot|otf|ttf|ttc|woff|font.css)",
+      "headers": [ {
+        "key": "Access-Control-Allow-Origin",
+        "value": "*"
+      } ]
+    }, {
+      "source": "**/themes/custom/ucr_default/images/*.@(jpg|jpeg|gif|png|svg|ico)",
+      "headers": [ {
+        "key": "Cache-Control",
+        "value": "max-age=720000"
+      } ]
+    }, {
+      "source": "404.html",
+      "headers": [ {
+        "key": "Cache-Control",
+        "value": "max-age=300"
+      } ]
+    } ]
   }
 }

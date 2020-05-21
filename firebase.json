@@ -55,6 +55,15 @@
         ]
       },
       {
+        "source": "**/*/analytics.js",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "max-age=7200000"
+          }
+        ]
+      },
+      {
         "source": "404.html",
         "headers": [
           {

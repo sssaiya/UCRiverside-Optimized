@@ -33,7 +33,7 @@ Summary of optimizations
 
 Effectively compressing and serving the site through our CDN which better leverages caching. 
 
-Resulting in performance gains on first byte, start render, first contentful paint, and speed index among other things.
+Our first byte time saw a reduction of 86%, start render saw a 58% time reduction, first contentful paint saw a 58% reduction, and the speed index saw a 70% reduction. We were also able to reduce the number of requests and the time to fully load the document.
 
 
 
